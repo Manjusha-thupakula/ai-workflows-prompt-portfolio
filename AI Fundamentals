@@ -1,0 +1,101 @@
+# Day 1 – Introduction to Artificial Intelligence
+
+## What is Artificial Intelligence?
+
+Artificial Intelligence (AI) is a field of computer science that focuses on building systems capable of performing tasks that normally require human intelligence.
+
+These tasks include:
+
+* Learning from data
+* Problem solving
+* Understanding language
+* Recognizing images
+* Making decisions
+
+AI systems analyze large amounts of data and identify patterns to make predictions or decisions.
+
+---
+
+## Examples of Artificial Intelligence
+
+Some real-world AI applications include:
+
+* Virtual assistants (Siri, Alexa)
+* Recommendation systems (Netflix, Amazon)
+* Self-driving cars
+* Chatbots
+* Fraud detection systems
+
+---
+
+## Types of Artificial Intelligence
+
+### 1. Narrow AI (Weak AI)
+
+This is AI designed to perform a specific task.
+
+Examples:
+
+* Chatbots
+* Image recognition
+* Voice assistants
+
+Most AI systems today are Narrow AI.
+
+---
+
+### 2. General AI
+
+General AI refers to machines that can perform any intellectual task that a human can do.
+
+This type of AI does not yet exist.
+
+---
+
+### 3. Super AI
+
+Super AI refers to intelligence that surpasses human intelligence.
+
+This concept is theoretical and does not exist today.
+
+---
+
+## AI vs Machine Learning vs Deep Learning
+
+Artificial Intelligence is the broader concept of machines performing intelligent tasks.
+
+Machine Learning is a subset of AI where machines learn from data without being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+Hierarchy:
+
+AI
+└── Machine Learning
+└── Deep Learning
+
+---
+
+## Why AI is Important
+
+AI helps organizations:
+
+* Automate repetitive tasks
+* Analyze large datasets
+* Improve decision making
+* Personalize user experiences
+
+Many industries are adopting AI including healthcare, finance, automotive, and technology.
+
+---
+
+## My Learning Notes
+
+Key takeaways from Day 1:
+
+* AI is about building intelligent machines
+* Machine Learning is the most common way to implement AI
+* Most AI systems today are Narrow AI
+* AI is widely used in real-world applications
+
+Next step: Learn Machine Learning basics.
