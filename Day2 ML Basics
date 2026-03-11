@@ -1,0 +1,88 @@
+# Day 2 – Introduction to Machine Learning
+
+## What is Machine Learning?
+
+Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn from data and improve their performance without being explicitly programmed.
+
+Instead of writing rules manually, the system learns patterns from data and makes predictions.
+
+Example:
+A spam email filter learns from thousands of emails to identify whether a new email is spam or not.
+
+---
+
+## How Machine Learning Works
+
+The basic workflow of Machine Learning:
+
+1. Collect Data
+2. Prepare Data
+3. Train Model
+4. Evaluate Model
+5. Make Predictions
+
+Example:
+A model trained with house price data can predict the price of a new house.
+
+---
+
+## Types of Machine Learning
+
+### 1. Supervised Learning
+
+In supervised learning, the model is trained using labeled data.
+
+Example:
+Input → Email
+Output → Spam or Not Spam
+
+Common algorithms:
+
+* Linear Regression
+* Logistic Regression
+* Decision Trees
+
+---
+
+### 2. Unsupervised Learning
+
+In unsupervised learning, the data does not have labeled outputs. The algorithm identifies patterns and relationships.
+
+Example:
+Customer segmentation in marketing.
+
+Common algorithms:
+
+* Clustering
+* K-means
+* Hierarchical clustering
+
+---
+
+### 3. Reinforcement Learning
+
+In reinforcement learning, the model learns by interacting with an environment and receiving rewards or penalties.
+
+Example:
+Game-playing AI systems.
+
+---
+
+## Examples of Machine Learning Applications
+
+* Fraud detection
+* Recommendation systems
+* Image recognition
+* Voice recognition
+* Predictive analytics
+
+---
+
+## My Learning Notes
+
+Key takeaways from Day 2:
+
+* Machine Learning allows systems to learn from data.
+* ML models improve with more training data.
+* There are three main types of ML: Supervised, Unsupervised, and Reinforcement Learning.
+* ML is used widely in many industries.
